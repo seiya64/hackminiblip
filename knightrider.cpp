@@ -1,4 +1,4 @@
-// miniblip led matrix demo
+// miniblip led knight rider demo
 
 #include "mbed.h"
 #include "neopixel.h"
